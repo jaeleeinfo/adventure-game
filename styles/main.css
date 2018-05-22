@@ -1,0 +1,14 @@
+body {
+	background: #ffffff;
+	color: #eaeaea;
+	padding: 0 16px;
+	font: 20px 'Times New Roman', Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	font-size: 1.5em;
+}
+
+em {
+	color: #000000;
+}
